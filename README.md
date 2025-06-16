@@ -1,7 +1,7 @@
 # 🔐 Password Strength Checker
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-password-cyber-security-flatart-icons-outline-flatarticons.png" alt="Password Checker Icon"/>
+  <img src="https://github.com/SM-DevX/SM_DevX/blob/main/8C30F60C-2670-46DD-A514-D8585998DB46.png?raw=true" alt="SM_DevX Logo" width="120">
 </p>
 
 ## 📖 Overview
