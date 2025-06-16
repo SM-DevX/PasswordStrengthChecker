@@ -3,6 +3,8 @@
   <img src="https://github.com/SM-DevX/SM_DevX/blob/main/8C30F60C-2670-46DD-A514-D8585998DB46.png?raw=true" alt="SM_DevX Logo" width="120">
 </p>
 
+---
+
 # 🔐 Password Strength Checker
 
 ## 📖 Overview
