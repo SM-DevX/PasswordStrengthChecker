@@ -52,7 +52,6 @@ The **Password Strength Checker** is a beginner-friendly Python program that eva
 
 ## 🎥 Demo
 
-```bash
 Enter your password: Pa$$w0rd2025!
 
 Password strength: Strong 💪
